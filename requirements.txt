@@ -1,0 +1,13 @@
+fastapi[all]
+pandas
+uvicorn
+numpy
+statsmodels
+scipy
+python-dateutil
+streamlit
+matplotlib
+nltk
+fuzzywuzzy
+dateparser
+spacy
